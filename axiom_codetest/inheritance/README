@@ -1,0 +1,7 @@
+To compile: make
+
+To remove .o files: make clean
+
+To run: ./Fruit
+
+Prereq: g++
