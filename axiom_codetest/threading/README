@@ -1,3 +1,5 @@
 Compile: g++ threadtest.cpp -pthread -o threadtest
 
 Run: ./threadtest <number of threads> <number of loops>
+
+Prereqs: g++, pthreads
