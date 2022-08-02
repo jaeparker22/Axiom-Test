@@ -1,7 +1,7 @@
-To compile: make
+Compile: make
 
-To remove .o files: make clean
+Remove .o files: make clean
 
-To run: ./Fruit
+Run: ./Fruit
 
-Prereq: g++
+Prereq: g++, make
